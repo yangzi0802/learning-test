@@ -1,0 +1,8 @@
+2021-01-07 16:29:16,326 INFO DEFAULT_GROUP@@nacos-config is changed, add it to push queue.
+
+2021-01-07 16:29:16,340 INFO serviceName: DEFAULT_GROUP@@nacos-config changed, schedule push for: 192.168.163.1:61586, agent: Nacos-Java-Client:v1.3.3, key: 192.168.163.1,61586,27362325948900
+
+2021-01-07 16:29:16,340 INFO send udp packet: 192.168.163.1,61586,27362325948900
+
+2021-01-07 16:29:16,347 INFO received ack: {"type": "push-ack", "lastRefTime":"27362325948900", "data":""} from: 192.168.163.1:61586, cost: 7 ms, unacked: 0, total push: 1
+

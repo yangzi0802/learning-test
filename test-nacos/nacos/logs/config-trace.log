@@ -1,0 +1,10 @@
+2021-01-07 10:52:02,474|192.168.1.129|light-common|DEFAULT_GROUP|null|unknown|-1|pull|not-found|-1|127.0.0.1
+2021-01-07 10:52:02,485|192.168.1.129|light-common.properties|DEFAULT_GROUP|null|unknown|-1|pull|not-found|-1|127.0.0.1
+2021-01-07 15:34:02,626|192.168.1.129|light-member.yaml|DEFAULT_GROUP|null|null|1610004842590|192.168.1.129|persist|pub|-1|55214757b2865459efc93e79f4fa2dd5
+2021-01-07 15:34:02,716|192.168.1.129|light-member.yaml|DEFAULT_GROUP|null|null|1610004842590|192.168.1.129|notify|ok|124|192.168.1.129:8848
+2021-01-07 15:34:02,771|192.168.1.129|light-member.yaml|DEFAULT_GROUP|null|null|1610004842590|192.168.1.129|dump|ok|181|437
+2021-01-07 15:34:44,121|192.168.1.129|light-common|DEFAULT_GROUP|null|unknown|-1|pull|not-found|-1|127.0.0.1
+2021-01-07 15:34:44,129|192.168.1.129|light-common.properties|DEFAULT_GROUP|null|unknown|-1|pull|not-found|-1|127.0.0.1
+2021-01-07 15:49:55,580|192.168.1.129|light-member.yaml|DEFAULT_GROUP|null|null|1610005795580|0:0:0:0:0:0:0:1|persist|remove|-1|null
+2021-01-07 15:49:55,650|192.168.1.129|light-member.yaml|DEFAULT_GROUP|null|null|1610005795580|192.168.1.129|notify|ok|68|192.168.1.129:8848
+2021-01-07 15:49:55,707|192.168.1.129|light-member.yaml|DEFAULT_GROUP|null|null|1610005795580|192.168.1.129|dump|remove-ok|127|0

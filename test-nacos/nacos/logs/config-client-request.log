@@ -1,0 +1,6 @@
+2021-01-07 10:52:02,474|1|null|127.0.0.1|get|light-common|DEFAULT_GROUP|||unknown
+2021-01-07 10:52:02,486|1|null|127.0.0.1|get|light-common.properties|DEFAULT_GROUP|||unknown
+2021-01-07 15:34:02,626|38|true|0:0:0:0:0:0:0:1|publish|light-member.yaml|DEFAULT_GROUP||55214757b2865459efc93e79f4fa2dd5|null
+2021-01-07 15:34:44,121|1|null|127.0.0.1|get|light-common|DEFAULT_GROUP|||unknown
+2021-01-07 15:34:44,129|0|null|127.0.0.1|get|light-common.properties|DEFAULT_GROUP|||unknown
+2021-01-07 15:49:55,580|56|true|0:0:0:0:0:0:0:1|remove|light-member.yaml|DEFAULT_GROUP||null|null
